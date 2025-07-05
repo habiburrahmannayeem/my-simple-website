@@ -1,0 +1,8 @@
+p{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: auto;
+    text-align: center;
+    text-overflow: clip;
+    color: red
+}
